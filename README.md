@@ -1,5 +1,5 @@
 # App
-Aplication for android to generate CUAG - (Consolidated Universal Address Genesis).
+Aplication for android to generate CUAG - (Consolidated Universal Address Genesis) ready to use for android APK just download file APK, execute and install.
 
 ******* NOTE: The User Guides you can check in directory "coinsolidation/UserGuide". *********
 
