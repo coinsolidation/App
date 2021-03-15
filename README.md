@@ -5,9 +5,9 @@ Aplication for android to generate CUAG - (Consolidated Universal Address Genesi
 
 Ready to use application "COINsolidation CUAG" for android inside directory coinsolidation/App/COINsolidationCUAG, just download in your smartphone, double click for install and ready to use.
 
-PEX - Personal Exchange eXtension February, 28 2021.
+PEX - Personal Exchange eXtension April, 30 2021.
 
-Coming Soon - Cryptocurrency COINsolidation lauch February, 28 2021.
+Coming Soon - Cryptocurrency COINsolidation lauch April, 30 2021.
 
 Information.
 info@coinsolidation.org
