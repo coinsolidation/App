@@ -3,7 +3,12 @@ Aplication version BETA for android to generate CUA - (Consolidated Universal Ad
 
 Installation steps:
 
-Download file COINsolidationCUA.apk to smartphone -> Go storage your local movil -> Doble click COINsolidationCUA.apk -> Give installation permissions -> Install ->  Ready.
+1.- Download file COINsolidationCUA.apk to smartphone
+2.- Go storage your local movil
+3.- Doble click COINsolidationCUA.apk
+4.- Give installation permissions
+5.- Install
+6.- Ready to use...
 
 ******* NOTE: The User Guides you can check in directory "coinsolidation/UserGuide". *********
 
