@@ -5,7 +5,7 @@ Installation steps:
 
 1.- Download file COINsolidationCUA.apk to smartphone
 
-2.- Go storage your local movil
+2.- Go storage your local movil (smartphone)
 
 3.- Doble click COINsolidationCUA.apk
 
