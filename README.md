@@ -1,7 +1,9 @@
 # App
 Aplication version BETA for android to generate CUA - (Consolidated Universal Address) ready to use for android APK just download file APK, execute and install.
 
-In directory /COINsolidationCUAG
+Installation steps:
+
+Download file COINsolidationCUA.apk to smartphone -> Go storage your local movil -> Doble click COINsolidationCUA.apk -> Give installation permissions -> Install ->  Ready.
 
 ******* NOTE: The User Guides you can check in directory "coinsolidation/UserGuide". *********
 
