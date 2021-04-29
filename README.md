@@ -3,7 +3,7 @@ Aplication version BETA for android to generate oneCkey - (one Consolidated priv
 
 Aplication version BETA for android to generate CUA - (Consolidated Universal Address) ready to use for android APK just download file APK, execute and install. Safely send pairs of addresses converted into a single address (address consolidation) in any means of communication, safe and easy.
 
-Both APPs in directory COINsolidationCUAG.
+Both APPs in directory "COINsolidationCUAG".
 
 ![logoCoinsolidationv6](https://user-images.githubusercontent.com/74171247/114766954-a65a7500-9d2c-11eb-864f-9b3ad034d76a.png)
 
