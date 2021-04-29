@@ -1,4 +1,4 @@
-# App
+# App - Installation instructions.
 Aplication version BETA for android to generate oneCkey - (one Consolidated private Key) ready to use for android APK just download file APK, execute and install.
 
 Aplication version BETA for android to generate CUA - (Consolidated Universal Address) ready to use for android APK just download file APK, execute and install.
@@ -47,6 +47,9 @@ Ready to use application "COINsolidation CUAG" for android inside directory coin
 
 PEX - Personal Exchange eXtension April, 30 2021.
 
+
+Support
+support@coinsolidation.org
 
 Information.
 info@coinsolidation.org
