@@ -13,9 +13,9 @@ Installation steps APP oneCkey:
 
 2.- Go storage your local movil (smartphone)
 
-3.- Doble click COINsolidationCUA.apk
+3.- Doble click oneCkey04292021.v1.0.apk
 
-4.- Give installation permissions
+4.- Give installation permissions in your smartphone.
 
 5.- Install
 
@@ -32,7 +32,7 @@ Installation steps APP CUA:
 
 3.- Doble click COINsolidationCUA.apk
 
-4.- Give installation permissions
+4.- Give installation permissions in your smartphone.
 
 5.- Install
 
