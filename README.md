@@ -38,7 +38,7 @@ Installation steps APP CUA:
 
 6.- Ready to use...
 
-![publicidad2beta](https://user-images.githubusercontent.com/74171247/116513236-dfe3c200-a88e-11eb-9897-378a7ee4ed29.png)
+![publicidad3beta](https://user-images.githubusercontent.com/74171247/116800594-37b93d80-aac8-11eb-998f-880173097557.png)
 
 
 ******* NOTE: The User Guides you can check in directory "coinsolidation/UserGuide". *********
