@@ -21,7 +21,7 @@ Installation steps APP oneCkey:
 
 6.- Ready to use...
 
-![fondo1d](https://user-images.githubusercontent.com/74171247/116513300-fbe76380-a88e-11eb-8576-d921d9920302.jpg)
+![publicidad3beta](https://user-images.githubusercontent.com/74171247/116800594-37b93d80-aac8-11eb-998f-880173097557.png)
 
 
 Installation steps APP CUA:
