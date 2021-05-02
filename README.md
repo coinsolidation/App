@@ -53,7 +53,7 @@ https://github.com/coinsolidation/UserGuide/tree/main/Ethereum
 
 Extension programming PEX
 
-![publicidad3beta](https://user-images.githubusercontent.com/74171247/116800594-37b93d80-aac8-11eb-998f-880173097557.png)
+https://github.com/coinsolidation/Extesions-Cryptocurrencies/tree/main/Ethereum
 
 Support
 support@coinsolidation.org
