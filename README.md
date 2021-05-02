@@ -45,7 +45,7 @@ Installation steps APP CUA:
 
 Ready to use application "COINsolidation CUAG" for android inside directory coinsolidation/App/COINsolidationCUAG, just download in your smartphone, double click for install and ready to use.
 
-PEX - Personal Exchange eXtension April, 30 2021.
+PEX - Personal Exchange eXtension - Ready to use.
 
 
 Support
