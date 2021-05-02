@@ -48,9 +48,11 @@ Ready to use application "COINsolidation CUAG" for android inside directory coin
 PEX - Personal Exchange eXtension - Ready to use.
 
 Manuals PEX (Spanish, English, France, German, Chinese, Italy, Portugues, Japan, Russian and Netherlands)
+
 https://github.com/coinsolidation/UserGuide/tree/main/Ethereum
 
 Extension programming PEX
+
 https://github.com/coinsolidation/Extesions-Cryptocurrencies/tree/main/Ethereum
 
 Support
